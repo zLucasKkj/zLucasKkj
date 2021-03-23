@@ -12,10 +12,12 @@
 #### Toda vez que olho programação eu penso "Será que devo continuar?" e quando continuo sempre acabo desistindo, me perco, minha mente anda muito cheia, não tenho mais paciência a ansiedade não me deixa continuar.
 
 #### De qualquer jeito, levo minha vida como posso, momentos assim fazem parte, acho eu, melhor eu continuar achando isso do que achar que seja algo pior, vai que um dia eu supere isso? sempre acho isso, isso me faz ter um pouco de esperança pelo menos.
-
+<p style="color: yellow;">Em Pausa</p>
 
 ## Tenho envolvimento com essas linguagens de programação:
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/50px-Python.svg.png)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/50px-Unofficial_JavaScript_logo_2.svg.png)
-![Lua](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/50px-Lua-Logo.svg.png)
+Língua | Aprendizado | IDE | Influência | Status | Nível
+------ | ----------- | --- | ---------- | ------ | -----
+![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/50px-Python.svg.png) | Sozinho | PyCharm, VSCODE | Discord Bots | <p styles="color: yellow;">Em Pausa</p> | ![57%](https://progress-bar.dev/57/?suffix=%)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/50px-Unofficial_JavaScript_logo_2.svg.png) | Sozinho | VSCODE + NODEJS | Discord Bots | Em trabalho lento | ![34%](https://progress-bar.dev/34/?suffix=%)
+![Lua](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/50px-Lua-Logo.svg.png) | Sozinho | ROBLOX STUDIO | Jogos | Parado | ![23%](https://progress-bar.dev/23/?suffix=%)
