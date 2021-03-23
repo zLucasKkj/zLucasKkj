@@ -12,7 +12,6 @@
 #### Toda vez que olho programação eu penso "Será que devo continuar?" e quando continuo sempre acabo desistindo, me perco, minha mente anda muito cheia, não tenho mais paciência a ansiedade não me deixa continuar.
 
 #### De qualquer jeito, levo minha vida como posso, momentos assim fazem parte, acho eu, melhor eu continuar achando isso do que achar que seja algo pior, vai que um dia eu supere isso? sempre acho isso, isso me faz ter um pouco de esperança pelo menos.
-<p style="color: yellow;">Em Pausa</p>
 
 ## Tenho envolvimento com essas linguagens de programação:
 
