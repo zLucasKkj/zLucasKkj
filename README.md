@@ -2,7 +2,7 @@
 
 ###
 
-## Programming Languages who i usually to:
+## Programming Languages that i usually program:
 
 Language | Learn Method | IDE | Influency | Status
 ------ | ----------- | --- | ---------- | ------
