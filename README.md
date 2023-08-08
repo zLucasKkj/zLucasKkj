@@ -1,5 +1,5 @@
 # I'm Lucas.
-I'm a self-taught person who aims the future, sucess and the easiness to people.
+A self-taught person who aims the future, sucess and the easiness to people.
 I born in <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Bandeira_de_Recife.svg"  width="1.8%" height="1.8%">Recife - <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Bandeira_de_Pernambuco.svg"  width="1.8%" height="1.8%">Pernambuco, <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"  width="1.8%" height="1.8%">Brasil in 2005.
 
 My favorite programming language is <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/50px-Unofficial_JavaScript_logo_2.svg.png"  width="1.25%" height="1.25%"> JavaScript using the <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"  width="1.25%" height="1.25%"> Node.js framework but my motivation came from <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"  width="1.25%" height="1.25%">Python. I usually program, as a hobbie.
