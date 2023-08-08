@@ -1,4 +1,4 @@
-# Hey! how's going? I'm Lucas.
+# I'm Lucas.
 I'm a self-taught person who aims the future, sucess and the easiness to people.
 I born in <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Bandeira_de_Recife.svg"  width="1.8%" height="1.8%">Recife - <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Bandeira_de_Pernambuco.svg"  width="1.8%" height="1.8%">Pernambuco, <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"  width="1.8%" height="1.8%">Brasil in 2005.
 
